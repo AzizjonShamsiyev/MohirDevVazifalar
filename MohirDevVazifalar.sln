@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValyutaKonvertri", "Valyuta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoshniHisoblash", "YoshniHisoblash\YoshniHisoblash.csproj", "{2F05A528-3941-4C4D-96DB-F1EEF5931A48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{28580966-5DB1-4947-8D96-A1D9CFFBBA9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raqamlar qatorining yig‘indisini hisoblash", "Raqamlar qatorining yig‘indisini hisoblash\Raqamlar qatorining yig‘indisini hisoblash.csproj", "{7C5BA2FE-73F4-4DE5-BD46-7EE3D0790DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paritet tekshiruvi", "Paritet tekshiruvi\Paritet tekshiruvi.csproj", "{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{2F05A528-3941-4C4D-96DB-F1EEF5931A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F05A528-3941-4C4D-96DB-F1EEF5931A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F05A528-3941-4C4D-96DB-F1EEF5931A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28580966-5DB1-4947-8D96-A1D9CFFBBA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28580966-5DB1-4947-8D96-A1D9CFFBBA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28580966-5DB1-4947-8D96-A1D9CFFBBA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28580966-5DB1-4947-8D96-A1D9CFFBBA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5BA2FE-73F4-4DE5-BD46-7EE3D0790DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5BA2FE-73F4-4DE5-BD46-7EE3D0790DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5BA2FE-73F4-4DE5-BD46-7EE3D0790DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5BA2FE-73F4-4DE5-BD46-7EE3D0790DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

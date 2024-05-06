@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tub sonlar", "Tub sonlar\Tu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics.Tanlash bo’limi uchun 1-amaliy vazifa", "Basics.Tanlash bo’limi uchun 1-amaliy vazifa\Basics.Tanlash bo’limi uchun 1-amaliy vazifa.csproj", "{E5F51319-40E5-4D34-9F21-446C1F0946FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics.Tanlash bo'limi uchun 2-amaliy vazifa", "Basics.Tanlash bo'limi uchun 2-amaliy vazifa\Basics.Tanlash bo'limi uchun 2-amaliy vazifa.csproj", "{27108E38-5E78-4C88-B6A4-7C440EBDBF16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{E5F51319-40E5-4D34-9F21-446C1F0946FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5F51319-40E5-4D34-9F21-446C1F0946FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5F51319-40E5-4D34-9F21-446C1F0946FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27108E38-5E78-4C88-B6A4-7C440EBDBF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27108E38-5E78-4C88-B6A4-7C440EBDBF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27108E38-5E78-4C88-B6A4-7C440EBDBF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27108E38-5E78-4C88-B6A4-7C440EBDBF16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

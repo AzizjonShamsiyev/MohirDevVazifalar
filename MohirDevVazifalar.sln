@@ -5,15 +5,29 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vazifa1", "Vazifa1\Vazifa1.csproj", "{DA987F52-2C1D-41C3-A980-818D82EC4D06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValyutaKonvertri", "ValyutaKonvertri\ValyutaKonvertri.csproj", "{13BACE04-CC60-479C-8A97-D5A6B213172C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValyutaKonvertri", "ValyutaKonvertri\ValyutaKonvertri.csproj", "{13BACE04-CC60-479C-8A97-D5A6B213172C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoshniHisoblash", "YoshniHisoblash\YoshniHisoblash.csproj", "{2F05A528-3941-4C4D-96DB-F1EEF5931A48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoshniHisoblash", "YoshniHisoblash\YoshniHisoblash.csproj", "{2F05A528-3941-4C4D-96DB-F1EEF5931A48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{28580966-5DB1-4947-8D96-A1D9CFFBBA9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calc", "Calc\Calc.csproj", "{28580966-5DB1-4947-8D96-A1D9CFFBBA9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raqamlar qatorining yig‘indisini hisoblash", "Raqamlar qatorining yig‘indisini hisoblash\Raqamlar qatorining yig‘indisini hisoblash.csproj", "{7C5BA2FE-73F4-4DE5-BD46-7EE3D0790DAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raqamlar qatorining yig‘indisini hisoblash", "Raqamlar qatorining yig‘indisini hisoblash\Raqamlar qatorining yig‘indisini hisoblash.csproj", "{7C5BA2FE-73F4-4DE5-BD46-7EE3D0790DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paritet tekshiruvi", "Paritet tekshiruvi\Paritet tekshiruvi.csproj", "{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paritet tekshiruvi", "Paritet tekshiruvi\Paritet tekshiruvi.csproj", "{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong sonlar", "Armstrong sonlar\Armstrong sonlar.csproj", "{36B471C9-6FB1-4462-AF1D-86243EFBA6D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bo'luvchisiz sonlar", "Bo'luvchisiz sonlar\Bo'luvchisiz sonlar.csproj", "{BA58F9DE-DAC6-4699-86C8-7550C6D2A4F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daraja hisoblash", "Daraja hisoblash\Daraja hisoblash.csproj", "{A92B8B4A-148F-45F3-9659-CB027DA225A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harajatlar to'plamini hisoblash", "Harajatlar to'plamini hisoblash\Harajatlar to'plamini hisoblash.csproj", "{0A195873-5393-412E-8A90-00F03F359537}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sifatli bo'luvchilar", "Sifatli bo'luvchilar\Sifatli bo'luvchilar.csproj", "{960154B0-A988-4DF4-B9D1-90DD92874E5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tub sonlar", "Tub sonlar\Tub sonlar.csproj", "{79A21276-D698-4D3A-9512-C54EE6426E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics.Tanlash bo’limi uchun 1-amaliy vazifa", "Basics.Tanlash bo’limi uchun 1-amaliy vazifa\Basics.Tanlash bo’limi uchun 1-amaliy vazifa.csproj", "{E5F51319-40E5-4D34-9F21-446C1F0946FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +59,34 @@ Global
 		{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A4F3DD5-97C3-42C1-9BA3-5B562CDBFF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B471C9-6FB1-4462-AF1D-86243EFBA6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B471C9-6FB1-4462-AF1D-86243EFBA6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B471C9-6FB1-4462-AF1D-86243EFBA6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B471C9-6FB1-4462-AF1D-86243EFBA6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA58F9DE-DAC6-4699-86C8-7550C6D2A4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA58F9DE-DAC6-4699-86C8-7550C6D2A4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA58F9DE-DAC6-4699-86C8-7550C6D2A4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA58F9DE-DAC6-4699-86C8-7550C6D2A4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92B8B4A-148F-45F3-9659-CB027DA225A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92B8B4A-148F-45F3-9659-CB027DA225A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92B8B4A-148F-45F3-9659-CB027DA225A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92B8B4A-148F-45F3-9659-CB027DA225A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A195873-5393-412E-8A90-00F03F359537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A195873-5393-412E-8A90-00F03F359537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A195873-5393-412E-8A90-00F03F359537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A195873-5393-412E-8A90-00F03F359537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960154B0-A988-4DF4-B9D1-90DD92874E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960154B0-A988-4DF4-B9D1-90DD92874E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960154B0-A988-4DF4-B9D1-90DD92874E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960154B0-A988-4DF4-B9D1-90DD92874E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A21276-D698-4D3A-9512-C54EE6426E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A21276-D698-4D3A-9512-C54EE6426E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A21276-D698-4D3A-9512-C54EE6426E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A21276-D698-4D3A-9512-C54EE6426E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F51319-40E5-4D34-9F21-446C1F0946FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F51319-40E5-4D34-9F21-446C1F0946FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F51319-40E5-4D34-9F21-446C1F0946FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F51319-40E5-4D34-9F21-446C1F0946FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
